@@ -1,0 +1,15 @@
+GET https://baotangtruyen10.com/Upload02/MemberImage/20240207/pic/0591f693-7ef2-4424-8e1b-0c15afd9c821.jpg HTTP/2.0
+sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"
+dnt: 1
+sec-ch-ua-mobile: ?0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0
+sec-ch-ua-platform: "Windows"
+accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+referer: https://baotangtruyen10.com/
+accept-encoding: gzip, deflate, br
+accept-language: vi,en-US;q=0.9,en;q=0.8
+cookie: Guid=8bae1984-f148-48ca-8381-03ae0b5a0c4a; _ga=GA1.1.107334495.1710486905; _ga_SN193M2QVL=GS1.1.1710579478.6.1.1710579625.60.0.0
+

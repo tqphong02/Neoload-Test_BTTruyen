@@ -1,0 +1,29 @@
+POST https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 HTTP/2.0
+content-length: 1324
+sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"
+dnt: 1
+x-origin: https://www.youtube.com
+authorization: SAPISIDHASH 1710579644_2782a5a0fef693930e0407df3cdb9cf20db5f77a
+x-goog-request-time: 1710579644386
+x-youtube-utc-offset: 420
+x-goog-authuser: 0
+x-youtube-time-zone: Asia/Saigon
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-mobile: ?0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0
+content-type: application/json
+x-youtube-client-name: 56
+x-youtube-client-version: 1.20240312.01.00
+x-goog-visitor-id: Cgs4RmFhb0ZmMzZmYyizv9WvBjIKCgJWThIEGgAgLQ%3D%3D
+x-youtube-ad-signals: dt=1710579635322&flash=0&frm=2&u_tz=420&u_his=3&u_h=864&u_w=1536&u_ah=816&u_aw=1536&u_cd=24&bc=31&bih=-12245933&biw=-12245933&brdim=0%2C0%2C0%2C0%2C1536%2C0%2C1536%2C816%2C0%2C0&vis=1&wgl=true&ca_type=image
+accept: */*
+origin: https://www.youtube.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.youtube.com/embed/lzU5qCUGhtQ?si=Z2bq4i0QicN1WbCM?&autoplay=1&mute=1
+accept-encoding: gzip, deflate, br
+accept-language: vi,en-US;q=0.9,en;q=0.8
+cookie: VISITOR_INFO1_LIVE=8FaaoFf36fc; VISITOR_PRIVACY_METADATA=CgJWThIEGgAgLQ%3D%3D; LOGIN_INFO=AFmmF2swRQIgYOJb-F78ykfFcHNh_FOjIW-b7SGiyUGCTokkpBC5gVYCIQC7BGDvr2vghAPcOuMo5Ph1JR4ewMmy81xOc2kK04bt3Q:QUQ3MjNmeTR1ckJERzRYLVlSWVUyaXNENVdnUzdjWFRVTW4zckJ1TFdqUmtGSWR2RWhoUE1sbGRra1lnUjRvTmppR0hYYUIxaHFEZkR0TWdiaVRJNkxPMGtocVIzRXBQTy1NQWJKdzFjQmM5eWYxQmZuWVRYQkpNaHZNQzl1NmQ2ZXJBM0Nhc0NmTTNtWmU5NHlmSElvWFlLdUduRWxwZ25B; __Secure-3PSID=g.a000hgiOR-OAVyNilXffj15G_7BPBmD1heAaJ_EmPseLKd8buYH6IAcOb7uwNBR9cbykBfD_6AACgYKAcMSAQASFQHGX2MiGquAzOnGaDL7x7_WrkvoERoVAUF8yKpfQI7xGffHyCG__RLS9fGA0076; __Secure-3PAPISID=7pWIpuAb13JxtVkF/AE9CXXLm_FZX0cUxr; __Secure-3PSIDTS=sidts-CjEBYfD7ZwyAYDiA6e5YJdJS-UExukp7AydWS_B4G3t8xdV-vCcKX5PxbpaCiV7O-UPZEAA; YSC=vaXxcvyvJtc; __Secure-3PSIDCC=AKEyXzXKCplhbbUwuCNYXF0ei4isxCdOPaWFYugsC6vvSykJvI87GElTUbXFKv3GUGUfA0cQeg
+
+{"context":{"client":{"hl":"vi","gl":"VN","clientName":56,"clientVersion":"1.20240312.01.00","configInfo":{"appInstallData":"CLO_1a8GEOHyrwUQkLKwBRCmgbAFENCNsAUQkLuwBRDnuq8FEN_KsAUQvbauBRCI468FEMzfrgUQ_LCwBRCasLAFELfvrwUQt-r-EhDPqLAFEPSa_xIQ_IWwBRClwv4SEMa5sAUQ48qwBRDrk64FEKKSsAUQ3MqwBRDdyrAFELz5rwUQlZWwBRDus7AFEPmV_xIQ86GwBRCgybAFEOevsAUQi5j_EhC-irAFEOvo_hIQosWwBRDtyLAFEMn3rwUQg7-wBRDhyrAFEKHDsAUQwcqwBRDViLAFEL2ZsAUQ3ej-EhComrAFEKKBsAUQrpj_EhDT4a8FEParsAUQo8mwBRCIh7AFEOrDrwUQt6uwBRC--a8FEPqnsAUQhsOwBRC4qrAFEPKa_xIQ2cmvBRD0q7AFEJrwrwUQlpn_EhCQx7AFELua_xIQkLCwBRDpm_8SKiRDQU1TRlJVVy1acS1ESWpaSHNXcUQ2Nm5CTFNIMlJFZEJ3PT0%3D"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0","screenDensityFloat":"1.25","connectionType":"CONN_CELLULAR_4G"},"thirdParty":{"embedUrl":"https://baotangtruyen10.com/"}},"events":[{"eventTimeMs":1710579637190,"embedsVideoDataDidChange":{"clientPlaybackNonce":"acXDIlVr3BSA_oeO","isReload":false,"runtimeEnabledFeatures":{"isShortsModeEnabled":false}},"context":{"lastActivityMs":"1813"}},{"eventTimeMs":1710579644384,"finalPayload":{"csn":"MC45MTczNjQwNzYwODQ3Mjk."},"context":{"lastActivityMs":"9007"}}],"serializedClientEventId":{"serializedEventId":"s1_1ZeagJb6Ds8IP89aBgAg","clientCounter":"226"}}

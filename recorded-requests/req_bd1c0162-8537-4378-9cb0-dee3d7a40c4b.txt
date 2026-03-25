@@ -1,0 +1,11 @@
+POST https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3 HTTP/2.0
+content-length: 1692
+authorization: SmartScreenHash eyJhdXRoSWQiOiI0MWE0MzhiYy0xMjQ5LTQzZDMtYTI2ZC02OWNkNjJjMDgzMTciLCAia2V5IjoidGdVQm1sYkdYL2FKTFUwaitHaGlxZz09IiwgImhhc2giOiJZVmF1cG9UVFZSOD0ifQ==
+content-type: application/json; charset=utf-8
+sec-fetch-site: none
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0
+accept-encoding: gzip, deflate, br
+
+{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0","identity":{"user":{"locale":"vi-VN"},"device":{"id":null,"customId":"f5ef0137-7292-4236-870d-0264f0323677","onlineIdTicket":"t=GwAWAd9tBAAU4MijKW4GiCCLggU/9urvxKw9DJgOZgAAEK66X+qd+xObd1D/8kJr/HHgADPLd6C2U0w/QckoYUhORf7yk78Gp6OPU/PaV9Q8JT3hK5GKhhP4C9N6yzC1+eJ+01G3gE0HKcJzke6dNkFPd7o/EeTRB1Xq1BlwEeEQdFCP29RTo/EnJ9KEjA6t+x9VvFCdpKERRo+6m4s28RNjsICgcGEUA+s51KctI6TR2TQllvGe88jn9Frf0uJIICUCShN/wkID92FA7dPLM/UqVehdnhqUh9kWy3RAN9wT0tmjfO64mxEAsYtHp//iS+DdDRD4XDyOMDBENS8ioovAHopXHXY3kE7QkmXR4bWV8knQHgE=&p=","family":3,"locale":"en-US","osVersion":"10.0.22631.3296.ni_release","browser":{"internetExplorer":"9.11.22621.0"},"netJoinStatus":2,"enterprise":{},"cloudSku":false,"architecture":9},"caller":{"locale":"vi-VN","name":"","version":"122.0.2365.92 (Official build) "},"client":{"version":"281483723997187","data":{"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1","synchronousLookupUris":"638343870221005468","customSettings":"F95BA787499AB4FA9EFFF472CE383A14"}}},"config":{"user":{"uriReputation":{"enforcedByPolicy":false,"level":"warn"}},"device":{"appControl":{"level":"anywhere"},"appReputation":{"enforcedByPolicy":false,"level":"warn"}}},"destination":{"uri":"https://www.youtube.com/embed/lzU5qCUGhtQ?si=Z2bq4i0QicN1WbCM?&autoplay=1&mute=1","ip":null},"referrer":{"uri":"https://baotangtruyen10.com/","ip":null},"type":"frame","forceServiceDetermination":false,"correlationId":"32c2ac1a-24c6-4b0b-a65d-bf00b04fc305","synchronous":false}

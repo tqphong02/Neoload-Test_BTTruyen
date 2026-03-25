@@ -1,0 +1,11 @@
+POST https://services.bingapis.com/undersideautosuggest/api/v1/service/autosuggest?edgeomnibox=1 HTTP/2.0
+content-length: 209
+content-type: application/json
+sec-fetch-site: none
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0
+accept-encoding: gzip, deflate, br
+accept-language: vi,en-US;q=0.9,en;q=0.8
+
+{"Count":4,"EdgeLanguages":{"DisplayLanguage":"vi","PreferredLanguages":["vi"]},"Prefix":"","Url":"https://www.neotys.com/redirect/redirect.php?target=recorder&lng=en&port=8090","UrlTitle":"NeoLoad Recording"}

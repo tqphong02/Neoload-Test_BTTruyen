@@ -1,0 +1,20 @@
+POST https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT HTTP/2.0
+content-length: 943
+sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"
+x-user-agent: grpc-web-javascript/0.1
+dnt: 1
+sec-ch-ua-mobile: ?0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0
+content-type: application/json+protobuf
+x-goog-api-key: AIzaSyDyT5W0Jh49F30Pqqtyfdf7pDLFKLJoAnw
+sec-ch-ua-platform: "Windows"
+accept: */*
+origin: https://www.youtube.com
+sec-fetch-site: cross-site
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.youtube.com/
+accept-encoding: gzip, deflate, br
+accept-language: vi,en-US;q=0.9,en;q=0.8
+
+["O43z0dpjhgX20SCx4KAo","$V8g5yJBRAAawOP8kkDje5t3SGlh1LuenADQBEArZ1IhEvJ6MJEw54RK-dyAPwNyhDua0xKe9-MQGI1FZtjh3m_LRKufzmFeDDnNjBcPRngAAADbOAAAAAvQBB5YA6pN8k31-JXKsqUsIyzTPcoFKa4bO-puc3UEeCsZezCuRLa8iJQtrEGyNKxnsyv6Vo9FmK5dfZhBoxhPVf3_SlUeOADO1V1xLDaWNlOiL7sGN_CV0DwPQObHh6q2xKNhOt6IJgzTscylw6GQhbbWwO_tk1Q9SvjhJ448QuDkWfb4P88BQoVjxUbJJ7qJe-vD2gC8mdHRjtx8_1miDQFLblE8b6iZD4kzFAXc9umEPuyaasSPxApO2dPCvx0sb-QATCth4-RAKXMq7HsrR6SX4GaZnZlJozcyUkOuPJ_5Hd4gHKtlOH3maQDziRgUBY-n1pVg9N-s89RWP3h3k7lWtaALNevJB6r4c0pLVy549arligB9_KHK1i1grpGhNHMh5kI7OWs5sXJdkM8pjmvogiApY1SOTCD3lwSeuStrx8HpEFk2oltR6Tw1e_h6_l5Rc6k92zsuMg0EseJ6DjM2aFj9z3DrpMhOEmjIhHjlVqAtY46V-WggwgEhc2bPVVNrSlGcFdd445pvkHx6WKH8tPBn05mvoC04yAThuZwFPCu3hEghp8ZWsn9SiGtK_74ZGhmlNcsquS1-RX6arOUWLPy2gkHCWa95ms2yfGPxdDojmKZYAi8KhZt1krSyX6G0fyevYpZeUu2UWVRPSVLxATiwTKFi2Z3iYjH1vY1QDowOpVpwYPKnde3493H3rMffQ4de5bHkP01RWUB18JXbdRVFQHxSwAaOkIQN_F5VchcEkzNNnFWKdikwyFT8uxS1uNVc4Tj3KclOex6aBfIqzO5A"]

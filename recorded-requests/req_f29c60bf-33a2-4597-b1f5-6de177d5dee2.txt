@@ -1,0 +1,22 @@
+GET https://www.youtube.com/ptracking?html5=1&video_id=lzU5qCUGhtQ&cpn=v6lbNzRMqqwZBpGl&ei=z1_1ZYejD4WsvcAPiZus2AI&ptk=youtube_none&pltype=contentugc HTTP/2.0
+sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"
+x-youtube-ad-signals: dt=1710579662715&flash=0&frm=2&u_tz=420&u_his=6&u_h=864&u_w=1536&u_ah=816&u_aw=1536&u_cd=24&bc=31&bih=-12245933&biw=-12245933&brdim=0%2C0%2C0%2C0%2C1536%2C0%2C1536%2C816%2C0%2C0&vis=1&wgl=true&ca_type=image
+dnt: 1
+sec-ch-ua-mobile: ?0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0
+x-youtube-utc-offset: 420
+x-youtube-client-name: 56
+x-youtube-client-version: 1.20240312.01.00
+x-goog-authuser: 0
+x-youtube-time-zone: Asia/Saigon
+x-goog-visitor-id: Cgs4RmFhb0ZmMzZmYyjOv9WvBjIKCgJWThIEGgAgLQ%3D%3D
+sec-ch-ua-platform: "Windows"
+accept: */*
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.youtube.com/embed/lzU5qCUGhtQ?si=Z2bq4i0QicN1WbCM?&autoplay=1&mute=1
+accept-encoding: gzip, deflate, br
+accept-language: vi,en-US;q=0.9,en;q=0.8
+cookie: VISITOR_INFO1_LIVE=8FaaoFf36fc; VISITOR_PRIVACY_METADATA=CgJWThIEGgAgLQ%3D%3D; LOGIN_INFO=AFmmF2swRQIgYOJb-F78ykfFcHNh_FOjIW-b7SGiyUGCTokkpBC5gVYCIQC7BGDvr2vghAPcOuMo5Ph1JR4ewMmy81xOc2kK04bt3Q:QUQ3MjNmeTR1ckJERzRYLVlSWVUyaXNENVdnUzdjWFRVTW4zckJ1TFdqUmtGSWR2RWhoUE1sbGRra1lnUjRvTmppR0hYYUIxaHFEZkR0TWdiaVRJNkxPMGtocVIzRXBQTy1NQWJKdzFjQmM5eWYxQmZuWVRYQkpNaHZNQzl1NmQ2ZXJBM0Nhc0NmTTNtWmU5NHlmSElvWFlLdUduRWxwZ25B; __Secure-3PSID=g.a000hgiOR-OAVyNilXffj15G_7BPBmD1heAaJ_EmPseLKd8buYH6IAcOb7uwNBR9cbykBfD_6AACgYKAcMSAQASFQHGX2MiGquAzOnGaDL7x7_WrkvoERoVAUF8yKpfQI7xGffHyCG__RLS9fGA0076; __Secure-3PAPISID=7pWIpuAb13JxtVkF/AE9CXXLm_FZX0cUxr; __Secure-3PSIDTS=sidts-CjEBYfD7ZwyAYDiA6e5YJdJS-UExukp7AydWS_B4G3t8xdV-vCcKX5PxbpaCiV7O-UPZEAA; YSC=vaXxcvyvJtc; __Secure-3PSIDCC=AKEyXzWBgiSl6Fvtpl-SAf-I2WmI_XgG2-EE8ocG3CPDg7E7nGvUl2iRfk2z-9OdXbZV8MLnjw
+

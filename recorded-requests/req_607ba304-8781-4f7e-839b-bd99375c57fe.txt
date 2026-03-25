@@ -1,0 +1,16 @@
+GET https://www.youtube.com/embed/lzU5qCUGhtQ?si=Z2bq4i0QicN1WbCM?&autoplay=1&mute=1 HTTP/2.0
+sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+upgrade-insecure-requests: 1
+dnt: 1
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+sec-fetch-site: cross-site
+sec-fetch-mode: navigate
+sec-fetch-dest: iframe
+referer: https://baotangtruyen10.com/
+accept-encoding: gzip, deflate, br
+accept-language: vi,en-US;q=0.9,en;q=0.8
+cookie: VISITOR_INFO1_LIVE=8FaaoFf36fc; VISITOR_PRIVACY_METADATA=CgJWThIEGgAgLQ%3D%3D; LOGIN_INFO=AFmmF2swRQIgYOJb-F78ykfFcHNh_FOjIW-b7SGiyUGCTokkpBC5gVYCIQC7BGDvr2vghAPcOuMo5Ph1JR4ewMmy81xOc2kK04bt3Q:QUQ3MjNmeTR1ckJERzRYLVlSWVUyaXNENVdnUzdjWFRVTW4zckJ1TFdqUmtGSWR2RWhoUE1sbGRra1lnUjRvTmppR0hYYUIxaHFEZkR0TWdiaVRJNkxPMGtocVIzRXBQTy1NQWJKdzFjQmM5eWYxQmZuWVRYQkpNaHZNQzl1NmQ2ZXJBM0Nhc0NmTTNtWmU5NHlmSElvWFlLdUduRWxwZ25B; __Secure-3PSID=g.a000hgiOR-OAVyNilXffj15G_7BPBmD1heAaJ_EmPseLKd8buYH6IAcOb7uwNBR9cbykBfD_6AACgYKAcMSAQASFQHGX2MiGquAzOnGaDL7x7_WrkvoERoVAUF8yKpfQI7xGffHyCG__RLS9fGA0076; __Secure-3PAPISID=7pWIpuAb13JxtVkF/AE9CXXLm_FZX0cUxr; __Secure-3PSIDTS=sidts-CjEBYfD7ZwyAYDiA6e5YJdJS-UExukp7AydWS_B4G3t8xdV-vCcKX5PxbpaCiV7O-UPZEAA; YSC=vaXxcvyvJtc; __Secure-3PSIDCC=AKEyXzUNGlF_QUDjTDJcrGo9Yc5rsB_96Mg5vDFMFMiOsBuqExkAoVoZvd6HhvPLgTZlEwKw5w
+

@@ -1,0 +1,137 @@
+
+
+<ul class="nav nav-tabs lazy-module" id="nav-lick">
+    <li class="active" data-id="1">
+        <a href="javascript:;">
+            <i class="fa fa-comments"></i> Tổng bình luận (<span class="comment-count">3</span>)
+        </a>
+    </li>
+</ul>
+<div class="tab-content">
+    <div id="nt_comments" class="tab-pane fade in active">
+        <div class="commentpanel">
+            <div class="journalTools" onclick="loadingEditor();">
+                <div class="journalEditor">
+                    <textarea class="journalContent hidden" name="journalContent" placeholder="Nội dung"></textarea>
+                    <div class="journalInfo">
+                        <input class="txtFullNameMain" maxlength="50" value="phong" placeholder="Tên của bạn (Bắt buộc)" type="text">
+                        <input class="txtEmailMain" maxlength="100" value="phongnhihaha@gmail.com" placeholder="Email (Không bắt buộc)" type="text">
+                        <input class="AvatarDefault" type="hidden" value="https://baotangtruyen10.com/content/images/avata.png">
+                        <a href="javascript:;" class="btnShare pull-right" onclick="sendCmtmain()">Gửi</a>
+                    </div>
+                    <div class="journalPlaceholder">Mời bạn thảo luận, vui lòng nhập Tiếng Việt có dấu</div>
+                    <div class="mrt15 hidden hide">
+                        <span class="sort-comment"><i class="icons"></i>Xem bình luận mới nhất</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div id="listcmt">
+            <div class="journalItems">
+                        <div class="journalrow" id="jid-2227">
+                            <div class="author">
+                                <img alt="Author" src="https://img.baotangtruyenvip.com/Upload02/MemberImage/20231027/pic/d4fea697-8ede-4881-8485-495b3f1a8d20.jpg"
+                                     onerror="this.onerror=null;this.src='https://img.baotangtruyenvip.com/upload02/content/images/avata.png';">
+                                <span class="cmreply" onclick="addreplyclick(this)" id="cmtbtn-2227">Trả lời</span>
+                            </div>
+                            <div class="journalitem">
+                                <div class="journalsummary">
+                                    <i class="fa fa-angle-left"></i>
+                                    <span class="authorname">Lee JunT</span>
+                                    <span class="member">Thành viên</span>
+                                    <abbr title="9/22/2023 7:33:00 AM">
+                                        <i class="fa fa-clock-o"></i> 5 th&#225;ng trước
+                                    </abbr>
+                                    <span class='cmchapter'>Chapter 25</span>
+                                    <span onclick="journalReport(this);" class="cmreport" id="report-2227">Báo vi phạm</span>
+                                    <div class="summary">hóng</div>
+                                </div>
+                            </div>
+                            <ul class="jcmt" id="jcmt-2227">
+                                <li class="cmteditarea" id="jcmt-2227-txtrow">
+                                    <textarea class="cmteditor hidden" id="jcmt-2227-txt" name="jcmt-2227-txt"></textarea>
+                                </li>
+                                <li class="cmtbtn">
+                                    <div class="cmtinfo cmtinfo-2227">
+                                        <input type="text" class="cmtname " placeholder="Tên của bạn(Bắt buộc)" maxlength="50">
+                                        <input type="text" class="cmtemail " placeholder="Email (Không bắt buộc)" maxlength="100">
+                                        <a href="javascript:;" onclick="submitCmt('2227')">Gửi</a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="journalrow" id="jid-1308">
+                            <div class="author">
+                                <img alt="Author" src="https://img.baotangtruyenvip.com/Content/Images/avata.png"
+                                     onerror="this.onerror=null;this.src='https://img.baotangtruyenvip.com/upload02/content/images/avata.png';">
+                                <span class="cmreply" onclick="addreplyclick(this)" id="cmtbtn-1308">Trả lời</span>
+                            </div>
+                            <div class="journalitem">
+                                <div class="journalsummary">
+                                    <i class="fa fa-angle-left"></i>
+                                    <span class="authorname">Trương Quang Vũ</span>
+                                    <span class="member">Thành viên</span>
+                                    <abbr title="9/6/2023 7:36:07 PM">
+                                        <i class="fa fa-clock-o"></i> 6 th&#225;ng trước
+                                    </abbr>
+                                    <span class='cmchapter'>Chapter 23</span>
+                                    <span onclick="journalReport(this);" class="cmreport" id="report-1308">Báo vi phạm</span>
+                                    <div class="summary">Chắc main nó đỡ nhỉ</div>
+                                </div>
+                            </div>
+                            <ul class="jcmt" id="jcmt-1308">
+                                <li class="cmteditarea" id="jcmt-1308-txtrow">
+                                    <textarea class="cmteditor hidden" id="jcmt-1308-txt" name="jcmt-1308-txt"></textarea>
+                                </li>
+                                <li class="cmtbtn">
+                                    <div class="cmtinfo cmtinfo-1308">
+                                        <input type="text" class="cmtname " placeholder="Tên của bạn(Bắt buộc)" maxlength="50">
+                                        <input type="text" class="cmtemail " placeholder="Email (Không bắt buộc)" maxlength="100">
+                                        <a href="javascript:;" onclick="submitCmt('1308')">Gửi</a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="journalrow" id="jid-311">
+                            <div class="author">
+                                <img alt="Author" src="https://baotangtruyen10.com/content/images/avata.png"
+                                     onerror="this.onerror=null;this.src='https://img.baotangtruyenvip.com/upload02/content/images/avata.png';">
+                                <span class="cmreply" onclick="addreplyclick(this)" id="cmtbtn-311">Trả lời</span>
+                            </div>
+                            <div class="journalitem">
+                                <div class="journalsummary">
+                                    <i class="fa fa-angle-left"></i>
+                                    <span class="authorname">aaaaaaaaaa</span>
+                                    <span class="member">Thành viên</span>
+                                    <abbr title="8/23/2023 2:34:05 PM">
+                                        <i class="fa fa-clock-o"></i> 6 th&#225;ng trước
+                                    </abbr>
+                                    <span class='cmchapter'></span>
+                                    <span onclick="journalReport(this);" class="cmreport" id="report-311">Báo vi phạm</span>
+                                    <div class="summary">Em gái nwng rên cực to: https://web1s.io/xGJ3g5eO4u<br /><br />Em gái đi khách 200$$: https://web1s.io/dikhach200do<br /><br />Dáng em này nhìn là muốn bắn: https://web1s.io/UPtwtjLJgG<br /><br />em gái rên ử ử như chs: https://web1s.io/mGzwH9QFBt<br /><br />Em gái hotgirl thẩm du: https://web1s.io/ahKKdS4pvl<br /><br />Leak em gái onlyfans Doggyy: https://web1s.io/Onlyfanshott</div>
+                                </div>
+                            </div>
+                            <ul class="jcmt" id="jcmt-311">
+                                <li class="cmteditarea" id="jcmt-311-txtrow">
+                                    <textarea class="cmteditor hidden" id="jcmt-311-txt" name="jcmt-311-txt"></textarea>
+                                </li>
+                                <li class="cmtbtn">
+                                    <div class="cmtinfo cmtinfo-311">
+                                        <input type="text" class="cmtname " placeholder="Tên của bạn(Bắt buộc)" maxlength="50">
+                                        <input type="text" class="cmtemail " placeholder="Email (Không bắt buộc)" maxlength="100">
+                                        <a href="javascript:;" onclick="submitCmt('311')">Gửi</a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+            </div>
+            <div id="ctl00_mainContent_divPager" class="pagination-outter commentpager">
+
+<ul class="pagination m0 tr-paging">
+</ul>
+            </div>
+        </div>
+    </div>
+</div>
+

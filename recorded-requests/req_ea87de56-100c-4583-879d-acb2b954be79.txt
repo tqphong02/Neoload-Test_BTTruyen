@@ -1,0 +1,20 @@
+POST https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create HTTP/2.0
+content-length: 24
+sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Microsoft Edge";v="122"
+x-user-agent: grpc-web-javascript/0.1
+dnt: 1
+sec-ch-ua-mobile: ?0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0
+content-type: application/json+protobuf
+x-goog-api-key: AIzaSyDyT5W0Jh49F30Pqqtyfdf7pDLFKLJoAnw
+sec-ch-ua-platform: "Windows"
+accept: */*
+origin: https://www.youtube.com
+sec-fetch-site: cross-site
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.youtube.com/
+accept-encoding: gzip, deflate, br
+accept-language: vi,en-US;q=0.9,en;q=0.8
+
+["O43z0dpjhgX20SCx4KAo"]
